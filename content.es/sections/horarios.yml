@@ -1,0 +1,21 @@
+id: horarios
+title: Horarios
+color: main-dark
+size: fluid
+gradient: dark
+more:
+  gradient_type: linear-br
+  flip_x: false
+  flip_y: false
+  divider: wavy
+rows:
+- type: gss
+  id: 2PACX-1vQli2HOn7NN_zXn3ajHB-gXKDp9Q7X-QkekdrOrlluH8HQ6tRjhmgV1IX_m_3Om5McrNgxN6cFZ230C
+  id_sheet: 1861644079
+- type: columns
+  items:
+  - link: https://docs.google.com/spreadsheets/d/1uok0LXp1-bXypf_eXq9AKd4O-Fyuc01csHVgOpJQF84/pubhtml
+    label: Ampliar
+    more:
+      ofuscate: true
+      licon: expand

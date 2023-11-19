@@ -1,0 +1,16 @@
+id: cita-2
+anchor: Cuerpo nuevo
+color: main-dark
+size: md
+gradient: dark
+description: |
+  icon-quote-left
+  En 10 sesiones te sentirás diferente, en 20 sesiones te verás diferente y en 30 sesiones tendrás un cuerpo totalmente nuevo
+  icon-quote-right
+  {.h3}
+more:
+  align: center
+  gradient_type: linear-br
+  flip_x: true
+  flip_y: false
+  divider: wavy-alt

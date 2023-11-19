@@ -1,0 +1,71 @@
+icons:
+  type: solid
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: false
+  base:
+    family: Roboto
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Roboto
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  title:
+    family: Amaranth
+    weight: 700
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: -0.125
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#96acaa' #00c895
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  alt:
+    color: '#c6c8c9' #aaa
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  link:
+    color: '#dbd1c7' #92beac
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#143739' #282525
+    black: '#000'
+rounded:
+  radius: 0.33
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: true
+  deep: false
+  outline: false
+  font_base: false
+shadow:
+  left: 0
+  top: 0
+  blur: 0
+  color: black
+  opacity: 0
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: true
+  parallax: false
+  srcsetx2: true

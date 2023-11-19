@@ -1,0 +1,23 @@
+id: especialidades
+title: Especialidades
+color: white
+size: md
+more:
+  flip_x: false
+  flip_y: true
+  divider: curve-side-fill
+rows:
+- type: columns
+  items:
+  - title: Pilates MAT, Máquinas y Prenatal
+    link: '#mat-maquinas-prenatal'
+    image: icono-pilates.svg
+  - title: Método 5P y Técnicas Hipopresivas
+    link: '#metodo-5p-tecnicas-hipopresivas'
+    image: icono-5p.svg
+  - title: Entrenamiento Funcional
+    link: '#entrenamiento-funcional'
+    image: icono-funcional.svg
+  - title: Entrenamiento personal
+    link: '#entrenamiento-personal'
+    image: icono-personal.svg

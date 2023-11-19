@@ -1,0 +1,16 @@
+id: novedades
+title: Novedades
+subtitle: ¡Síguenos!
+color: white
+size: md
+more:
+  flip_x: false
+  flip_y: true
+  divider: curve
+rows:
+- type: columns
+  items:
+  - description: |
+      [btn icon-instagram Instagram](https://www.instagram.com/moverecaceres/)
+      [btn icon-facebook-f Facebook](https://www.facebook.com/movere.pilates.training)
+      [btn icon-youtube Youtube](https://www.youtube.com/channel/UCtId-AlqJMzou0loAZAn9uA)

@@ -1,0 +1,27 @@
+id: fotos
+title: Fotos
+# subtitle: Nuestras instalaciones
+color: light
+size: fluid
+more:
+  padding_hide: true
+  flip_x: false
+  flip_y: false
+  divider: curve-side-fill
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 3
+    alt: false
+    wrap: false
+    gap: false
+    cover: true
+    link: /fotos/
+  images:
+  - pilates-maquinas-2.jpg
+  - pilates-estudio.jpg
+  - pilates-suelo.jpg
+  - pilates-suelo-2.jpg
+  - pilates-embarazadas.jpg
+  - pilates-bebes.jpg

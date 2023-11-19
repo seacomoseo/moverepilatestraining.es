@@ -1,0 +1,17 @@
+id: blog
+title: Blog
+# subtitle: Novedades
+color: light
+more:
+  flip_x: true
+  flip_y: true
+  divider: curve-side-fill
+rows:
+- type: articles
+  kind: blog
+  max: 3
+  design:
+    num: 3
+    color: white
+    interval: null
+    slider: true

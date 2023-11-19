@@ -1,0 +1,17 @@
+id: equipo
+title: Equipo
+color: white
+more:
+  flip_x: false
+  flip_y: true
+  divider: curve
+rows:
+- type: columns
+  design:
+    num: 4
+    ratio: circle
+    border: main
+  items:
+  - title: Adela Marín
+    link: '#adela-marin'
+    image: adela-marin.jpg

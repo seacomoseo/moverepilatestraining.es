@@ -1,0 +1,44 @@
+title: Movere Pilates & Training
+description: Centro Especializado en Pilates y Entrenamiento Funcional en Cáceres
+logo: logo.png
+legal_name: Adela Marín Marqués
+legal_dni: 45556223P
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- SportsActivityLocation
+- Organization
+alternate_name:
+- Movere
+- Movere Pilates
+- Movere Pilates Cáceres
+price_range: ''
+google_analytics: G-4HDRXJLR00
+google_site_verification: _A6_yvc57n1k4K2KRSBJV7MKHXbI8ABmfCKmPgo76To
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/moverecaceres/
+- link: https://www.facebook.com/movere.pilates.training
+- link: https://www.youtube.com/channel/UCtId-AlqJMzou0loAZAn9uA
+- link: https://g.page/Moverecaceres
+

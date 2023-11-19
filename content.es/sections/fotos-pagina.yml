@@ -1,0 +1,50 @@
+id: fotos-pagina
+title: Fotos
+subtitle: Nuestras instalaciones y actividades
+color: main-dark
+more:
+  flip-x: false
+  flip-y: true
+  divider: curve-side-fill
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 4
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  # - pilates-maquinas-2.jpg
+  - pilates-estudio.jpg
+  - pilates-suelo.jpg
+  - pilates-suelo-2.jpg
+  - pilates-embarazadas.jpg
+  - pilates-bebes.jpg
+
+  - entrada-movere.jpg
+  - sala-movere.jpg
+  - pilates-maquinas.jpg
+  - pilates-maquinas-8.jpg
+  # - pilates-maquinas-3.jpg
+  # - pilates-maquinas-4.jpg
+  - pilates-maquinas-5.jpg
+  - pilates-maquinas-6.jpg
+  - pilates-prenatal-2.jpg
+  - pilates-prenatal-3.jpg
+  - pilates-prenatal.jpg
+  - pilates-estudio-4.jpg
+  - pilates-suelo-3.jpg
+  - fondo.jpg
+  - pilates-estudio-2.jpg
+  - pilates-estudio-3.jpg
+  - pilates-estudio-5.jpg
+  # - pilates-estudio-6.jpg
+  - pilates-estudio-7.jpg
+  - pilates-estudio-8.jpg
+  - pilates-estudio-9.jpg
+  - pilates-estudio-10.jpg
+  - pilates-maquinas-7.jpg
+  - adela-marin-marques.jpg

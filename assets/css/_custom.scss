@@ -1,0 +1,94 @@
+// Header
+
+#body-inicio #header {
+  .subtitle {
+    color: inherit;
+  }
+  // Animations
+  .image__inner {
+    animation: logo-shadow .5s 2.75s both;
+  }
+  .subtitle {
+    animation: show-up .5s 2.5s both;
+  }
+  .buttons {
+    animation: show-up .5s 2.75s both;
+  }
+}
+
+
+// Sections
+
+.section {
+  // &.bg-white,
+  // &.bg-light,
+  // &.bg-main-light,
+  // &.bg-alt-light {
+  //   .section__header {
+  //     .section__title {
+  //       h2 {
+  //         color: $link;
+  //       }
+  //     }
+  //   }
+  // }
+  .section__header {
+    .section__title {
+      h2 {
+        font-size: 2.5em;
+      }
+    }
+  }
+}
+// #especialidades {
+//   .column__header {
+//     font-size: 1.2em;
+//   }
+//   .buttons {
+//     margin: 0;
+//   }
+//   .button {
+//     width: 100%;
+//     justify-content: flex-start;
+//     text-transform: none;
+//     svg {
+//       font-size: 3em;
+//       transform: none;
+//     }
+//   }
+//   @media (min-width: $screen-xl) {
+//     .column:first-child {
+//       .button {
+//         text-align: right;
+//         svg {
+//           order: 2;
+//         }
+//       }
+//     }
+//   }
+// }
+#nosotros {
+  .container--sm {
+    width: 28em;
+    max-width: calc(100% - 2em);
+  }
+}
+#blog + .divider,
+#fotos-mas + .divider {
+  --divider-height: 3em;
+}
+.price {
+  color: $main;
+}
+#cita-1,
+#cita-2 {
+  p {
+    color: inherit;
+    margin: 0;
+  }
+}
+#resenas {
+  .reviews__call {
+    --subtitle: #{ $dark };
+  }
+}

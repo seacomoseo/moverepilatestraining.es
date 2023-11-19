@@ -1,0 +1,14 @@
+id: cita-1
+anchor: Movimiento
+color: white
+size: md
+description: |
+  icon-quote-left
+  Porque el paso más importante en cualquier carrera es el movimiento, en MOVERE te ayudamos a conseguirlo
+  icon-quote-right
+  {.h2}
+more:
+  align: center
+  flip_x: false
+  flip_y: true
+  divider: wavy-alt

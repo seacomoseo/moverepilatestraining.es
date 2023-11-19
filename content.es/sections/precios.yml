@@ -1,0 +1,64 @@
+id: precios
+title: Precios
+color: dark
+bg: pilates-suelo-2.jpg
+size: md
+more:
+  opacity: 30
+  parallax: true
+  flip_x: true
+  flip_y: false
+  divider: wavy
+rows:
+- type: columns
+  design:
+    pill: true
+    color: white
+    ratio: circle
+  items:
+  - title: Clases 1
+    price: 43 €/mes
+    link: '#contacto'
+    label: Contactar
+    icon: star
+    description: |
+      **2 clases/semana**
+
+      - Pilates MAT
+      - Entrenamiento Funcional
+    # - Yoga
+    more:
+      licon: paper-plane
+  - title: Clases 2
+    price: 55 €/mes
+    link: '#contacto'
+    label: Contactar
+    icon: heart
+    description: |
+      **2 clases/semana**
+
+      - Pilates MAT Prenatal
+      - Método 5P y Técnicas Hipopresivas
+    more:
+      licon: paper-plane
+  - title: Clases 3
+    price: 95 €/mes
+    link: '#contacto'
+    label: Contactar
+    icon: crown
+    description: |
+      **1 clase de studio/semana <br> + resto de clases ilimitadas**
+
+      - Pilates Máquinas
+      - Pilates Máquinas Prenatal
+      - Entrenamiento Personal
+    more:
+      licon: paper-plane
+- type: columns
+  items:
+  - title: También...
+    description: |
+      Precios por sesiones sueltas y bonos
+
+      ¡Consúltanos!
+      {.price}

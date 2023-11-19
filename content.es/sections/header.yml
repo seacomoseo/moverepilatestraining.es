@@ -1,0 +1,22 @@
+id: header
+anchor: Centro Especializado en Pilates y Entrenamiento Funcional en Cáceres
+subtitle: Centro Especializado en Pilates y <br> Entrenamiento Funcional en Cáceres
+color: dark
+image: logo-alt.svg
+bg: fondo.jpg
+gradient: white
+size: xs
+description: |
+  [btn icon-plus Más](#principal)
+more:
+  align: center
+  padding_top: 3
+  padding_bottom: 3
+  image_min: 16
+  image_max: 18
+  opacity: 50
+  parallax: true
+  gradient_type: radial-alt
+  flip_x: true
+  flip_y: false
+  divider: curve-side-fill
