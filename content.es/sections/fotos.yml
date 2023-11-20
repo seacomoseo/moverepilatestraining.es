@@ -6,8 +6,8 @@ size: fluid
 more:
   padding_hide: true
   flip_x: false
-  flip_y: false
-  divider: curve-side-fill
+  flip_y: true
+  divider: curve-side
 rows:
 - type: gallery
   design:

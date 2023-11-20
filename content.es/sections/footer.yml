@@ -1,5 +1,6 @@
 more:
-  divider: curve-side-fill
+  divider: curve-side
+  flip_y: true
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}

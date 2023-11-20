@@ -4,8 +4,8 @@ color: white
 size: md
 more:
   flip_x: false
-  flip_y: true
-  divider: curve-side-fill
+  flip_y: false
+  divider: curve-side
 rows:
 - type: columns
   items:

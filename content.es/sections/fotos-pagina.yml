@@ -3,9 +3,8 @@ title: Fotos
 subtitle: Nuestras instalaciones y actividades
 color: main-dark
 more:
-  flip-x: false
-  flip-y: true
-  divider: curve-side-fill
+  flip_y: true
+  divider: curve-side
 rows:
 - type: gallery
   design:

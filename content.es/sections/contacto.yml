@@ -6,8 +6,8 @@ size: sm
 more:
   align: center
   flip_x: false
-  flip_y: false
-  divider: curve-side-fill
+  flip_y: true
+  divider: curve-side
 rows:
 - type: contact
   data:
@@ -51,5 +51,3 @@ rows:
   map:
     active: true
     link: https://g.page/Moverecaceres
-    flip_x: true
-    divider: curve-side-fill

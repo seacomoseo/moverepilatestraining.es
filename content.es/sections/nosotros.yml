@@ -23,5 +23,5 @@ more:
   parallax: true
   container: white
   flip_x: true
-  flip_y: false
-  divider: curve-side-fill
+  flip_y: true
+  divider: curve-side

@@ -18,5 +18,5 @@ more:
   parallax: true
   gradient_type: radial-alt
   flip_x: true
-  flip_y: false
-  divider: curve-side-fill
+  flip_y: true
+  divider: curve-side

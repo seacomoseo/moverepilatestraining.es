@@ -4,8 +4,8 @@ title: Blog
 color: light
 more:
   flip_x: true
-  flip_y: true
-  divider: curve-side-fill
+  flip_y: false
+  divider: curve-side
 rows:
 - type: articles
   kind: blog
