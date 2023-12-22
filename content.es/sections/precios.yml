@@ -16,8 +16,8 @@ rows:
     color: white
     ratio: circle
   items:
-  - title: Clases 1
-    price: 43 €/mes
+  - title: Clases Normales
+    price: 46 €/mes
     link: '#contacto'
     label: Contactar
     icon: star
@@ -29,8 +29,8 @@ rows:
     # - Yoga
     more:
       licon: paper-plane
-  - title: Clases 2
-    price: 55 €/mes
+  - title: Clases Especiales
+    price: 58 €/mes
     link: '#contacto'
     label: Contactar
     icon: heart
@@ -41,13 +41,13 @@ rows:
       - Método 5P y Técnicas Hipopresivas
     more:
       licon: paper-plane
-  - title: Clases 3
-    price: 95 €/mes
+  - title: Clases Studio
+    price: 98 €/mes
     link: '#contacto'
     label: Contactar
     icon: crown
     description: |
-      **1 clase de studio/semana <br> + resto de clases ilimitadas**
+      **1 clase de studio/semana <br> + 3 clases normales o especiales**
 
       - Pilates Máquinas
       - Pilates Máquinas Prenatal

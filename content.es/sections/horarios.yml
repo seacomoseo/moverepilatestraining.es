@@ -1,7 +1,7 @@
 id: horarios
 title: Horarios
 color: main-dark
-size: fluid
+size: xl
 gradient: dark
 more:
   gradient_type: linear-br
