@@ -31,7 +31,16 @@ rows:
     active: true
     name: Movere Pilates & Training
     streetAddress: C. Diego María Crehuet, 12
-    postalCode: 10002
+    postalCode: '10002'
+    addressLocality: Cáceres
+    addressRegion: Extremadura
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-6.375119,39.471295]}'
+  - type: address
+    active: true
+    name: ''
+    streetAddress: C. Diego María Crehuet, 8
+    postalCode: '10002'
     addressLocality: Cáceres
     addressRegion: Extremadura
     addressCountry: España

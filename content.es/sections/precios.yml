@@ -17,7 +17,7 @@ rows:
     ratio: circle
   items:
   - title: Clases Normales
-    price: 46 €/mes
+    price: 48 €/mes
     link: '#contacto'
     label: Contactar
     icon: star
@@ -42,7 +42,7 @@ rows:
     more:
       licon: paper-plane
   - title: Clases Studio
-    price: 98 €/mes
+    price: 100 €/mes
     link: '#contacto'
     label: Contactar
     icon: crown

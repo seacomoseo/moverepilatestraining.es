@@ -3,14 +3,14 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/movere/moverepilatestraining.es
+  git_url: https://github.com/seacomoseo/moverepilatestraining.es
   netlify_name: movere
   netlify_id: 9445d9ce-1f60-40ec-94d1-6a6295b64cb1
   hook: NjMwMzVlMzdmMGIyYzk1ODdiMDQwYjQz
   drive_link: https://drive.google.com/file/d/1-5NRJQMkquMdLdfX7TLYNL-Qx_G1Cd8h
   drive_mails: movere.pilates.training@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina
