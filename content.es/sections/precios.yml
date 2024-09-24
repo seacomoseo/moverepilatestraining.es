@@ -10,50 +10,76 @@ more:
   flip_y: false
   divider: wavy
 rows:
+
 - type: columns
   design:
+    num: 3
     pill: true
     color: white
     ratio: circle
   items:
+
   - title: Clases Normales
     price: 48 €/mes
     link: '#contacto'
     label: Contactar
-    icon: star
+    icon: people-pants-simple
     description: |
       **2 clases/semana**
 
-      - Pilates MAT
+      - Pilates
       - Entrenamiento Funcional
     # - Yoga
     more:
       licon: paper-plane
+
   - title: Clases Especiales
     price: 58 €/mes
     link: '#contacto'
     label: Contactar
-    icon: heart
+    icon: person-pregnant
     description: |
       **2 clases/semana**
 
-      - Pilates MAT Prenatal
-      - Método 5P y Técnicas Hipopresivas
+      - Pilates Prenatal
+      - Funcional Especial (adaptado al embarazo y posparto)
+      - Centro (suelo pélvico, core, método 5p e hipopresivos)
     more:
       licon: paper-plane
-  - title: Clases Combinadas
+
+  - title: Grupos Reducidos
     price: 100 €/mes
     link: '#contacto'
     label: Contactar
-    icon: crown
+    icon: people-group
     description: |
-      **1 clase de studio/semana <br> + 3 clases normales o especiales**
+      **3 clases normales o especiales <br> + 1 clase de:**
 
-      - Pilates Máquinas
-      - Pilates Máquinas Prenatal
-      - Entrenamiento Personal
+      - Pilates Estudio
+      - Entrenamiento Funcional Reducido
     more:
       licon: paper-plane
+
+  - title: Dúo Training
+    price: ¡Consúltanos!
+    link: '#contacto'
+    label: Contactar
+    icon: people-arrows
+    description: |
+      Entrenamiento en pareja
+    more:
+      licon: paper-plane
+
+  - title: Personal Training
+    price: ¡Consúltanos!
+    link: '#contacto'
+    label: Contactar
+    icon: street-view
+    description: |
+      Entrenamiento personal
+    more:
+      licon: paper-plane
+
 - type: columns
   items:
   - title: También...
