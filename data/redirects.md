@@ -20,3 +20,7 @@
 /2017/06/la-cintura-pelvica.html /la-cintura-pelvica/
 /2017/12/la-centralizacion-o-core.html /la-centralizacion-o-core/
 /2020/01/suelo-pelvico-y-propuestas-para-cuidarlo.html /suelo-pelvico-y-propuestas-para-cuidarlo/
+
+/2014/05/ /#blog
+/feeds/* /feed.xml
+/search /
