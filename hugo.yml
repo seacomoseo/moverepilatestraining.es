@@ -1,5 +1,5 @@
 baseURL: https://www.moverepilatestraining.es
-# Paginate: 24
+Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
@@ -13,7 +13,7 @@ defaultContentLanguage: es
 disableLanguages: [en,fr]
 languages:
   es:
-    # paginatePath: pagina
+    paginatePath: pagina
     permalinks:
       page:
         pages: :slug
