@@ -4,12 +4,7 @@ title_seo: La Cintura Pélvica - Movere Pilates & Training
 slug: la-cintura-pelvica
 description: La pelvis Estructura ósea en forma de cuenco que se conecta con el miembro superior e inferior. Su posición está directamente relaciona...
 image: https://1.bp.blogspot.com/-3lP6q_0NhO0/WTZsdchXZvI/AAAAAAAACoM/b1p2Wjk50rEzHRjE5Vx6zB5gFVtfiLVOACLcB/s684/LA%2BPELVIS%2BY%2BSUS%2BPARTES.JPG
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2017-06-06T21:08:00+02:00'
 lastmod: '2017-06-06T21:08:00+02:00'
 ---

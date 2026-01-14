@@ -4,12 +4,7 @@ title_seo: La Cintura Escapular - Movere Pilates & Training
 slug: la-cintura-escapular
 description: La cintura escapular se inicia en la base del cuello hasta el borde inferior del músculo pectoral mayor. Su función es fijar la articula...
 image: https://3.bp.blogspot.com/-QC3OBUPJHRI/WTg7h-XWfQI/AAAAAAAACok/FGXqbmhAlVIKhvJ4gwovDV1FS073OQ4owCLcB/s684/C.ESCAPULAR.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2017-06-07T22:13:00+02:00'
 lastmod: '2017-06-07T22:13:00+02:00'
 ---

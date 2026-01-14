@@ -1,7 +1,7 @@
 logo: ''
 color: white
 screen_sticky: 1100
-size_sticky: ''
+size_sticky: lg
 articles_sticky: false
 transparent: true
 hide_anchors: false

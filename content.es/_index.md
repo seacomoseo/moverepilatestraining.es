@@ -4,8 +4,6 @@ title_seo: '🥇 Movere Pilates & Training: 【 Clases en Cáceres 】'
 slug: inicio
 description: llll➤ Centro Especializado en Pilates ✅ y Entrenamiento Funcional ✅ en Cáceres.
 image: fondo.jpg
-draft: false
-noindex: false
 sections:
 - file: header
 - file: especialidades

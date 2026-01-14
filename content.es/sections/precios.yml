@@ -20,7 +20,7 @@ rows:
   items:
 
   - title: Clases Normales
-    price: 48 €/mes
+    price: 50 €/mes
     link: '#contacto'
     label: Contactar
     icon: people-pants-simple
@@ -34,7 +34,7 @@ rows:
       licon: paper-plane
 
   - title: Clases Especiales
-    price: 58 €/mes
+    price: 60 €/mes
     link: '#contacto'
     label: Contactar
     icon: person-pregnant

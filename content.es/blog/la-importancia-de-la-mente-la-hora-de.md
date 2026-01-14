@@ -4,12 +4,7 @@ title_seo: La importancia de la mente a la hora de la práctica de Pilates
 slug: la-importancia-de-la-mente-la-hora-de
 description: ¡Buenas a tod@s! Comenzaré esta entrada, dirigiéndome a toda la familia de Movere, puesto que dedicada a ellos va. Quiero una vez mas insis...
 image: https://4.bp.blogspot.com/-v3e5HLQPqbo/VrecPTCgfHI/AAAAAAAACfY/-oP3tKlMK8E/s684/NUEVA%2BENTRADA.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2016-02-07T21:01:00+01:00'
 lastmod: '2016-02-07T21:01:00+01:00'
 ---

@@ -4,12 +4,7 @@ title_seo: El Placer de Acompañarte - Movere Pilates & Training
 slug: el-placer-de-acompanarte
 description: Esta pequeña entrada va dedicada a todas las personas que día a día, confían en mi y en mi trabajo, pero en especial a una población conc...
 image: https://3.bp.blogspot.com/-LDX6eObJRdM/V7X1BL7P6-I/AAAAAAAACis/HrhIT2LZzi8lIP4T4VO-KM74EqUUKz-tgCLcB/s684/Prenatal1%2BJPG.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2016-08-18T19:49:00+02:00'
 lastmod: '2016-08-18T19:49:00+02:00'
 ---

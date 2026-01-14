@@ -4,12 +4,7 @@ title_seo: Suelo pélvico y propuestas para cuidarlo
 slug: suelo-pelvico-y-propuestas-para-cuidarlo
 description: INTRODUCCIÓN Esta entrada va dirigida a todas las mamás de Movere,para no ponerme teórica en las clases y que conozcais un poco mas para es...
 image: https://1.bp.blogspot.com/-7WQMgO4rLHo/XhjPZ0fjZbI/AAAAAAAAAMM/RT5IzrgLI-kLmJR-jxe4JnCrTJLaopnawCLcBGAsYHQ/s684/la%2Bpelvis.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2020-01-10T22:17:00+01:00'
 lastmod: '2020-01-10T22:17:00+01:00'
 ---

@@ -1,7 +1,6 @@
 icons:
   type: solid
-  emojis: ''
-  emojis_default: false
+  emojis: false
 fonts:
   google: false
   base:
@@ -23,7 +22,7 @@ fonts:
     strong: 0
     italic: false
     line-height: 1.25
-    top: -0.125
+    top: 0
   blockquote_cursive: false
 colors:
   main:

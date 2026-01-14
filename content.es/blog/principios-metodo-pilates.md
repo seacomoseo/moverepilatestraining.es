@@ -4,12 +4,7 @@ title_seo: Principios del Método Pilates - Movere Pilates & Training
 slug: principios-metodo-pilates
 description: La ejecucuión de los ejercicios de Pilates se distinguen porque implican siempre el uso de todo el cuerpo. El cuerpo se organiza...
 image: https://3.bp.blogspot.com/-5Br_pCO2CEs/U48Eqd0q_2I/AAAAAAAAAfY/SEcLY7DcVsQ/s684/peceras-en-equilibrio.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2014-05-30T21:26:00+02:00'
 lastmod: '2014-05-30T21:26:00+02:00'
 ---

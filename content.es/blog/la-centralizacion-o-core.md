@@ -4,12 +4,7 @@ title_seo: La Centralización o Core - Movere Pilates & Training
 slug: la-centralizacion-o-core
 description: ¿Qué es?  Centro de donde parte toda la energía. De su estabilidad depende nuestro control postural. J.Pilates decía, el mayor...
 image: https://4.bp.blogspot.com/-6hEcdshxFb0/WiCeIXgtxnI/AAAAAAAADE8/LvEoNC6-MEYtjxmiHMPoRAplD4BjyZ4OQCLcBGAs/s684/musculos-suelo-pelvico-300x177.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2017-12-01T01:19:00+01:00'
 lastmod: '2017-12-01T01:19:00+01:00'
 ---

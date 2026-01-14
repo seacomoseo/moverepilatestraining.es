@@ -4,12 +4,7 @@ title_seo: Pilates y tu momento para disfrutarlo - Movere Pilates & Training
 slug: pilates-y-tu-momento-para-disfrutarlo
 description: Una semana mas, quería dedicar unas líneas a mis alumn@s de pilates y demás lectores del blog :) Todos los días, al terminar la jornada, la...
 image: https://3.bp.blogspot.com/-47tRMtEKbrs/VN5pK-yk0qI/AAAAAAAACTs/IvYarXV_DQ0/s684/10859524_10204142165767456_1015232666_n.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-02-13T22:22:00+01:00'
 lastmod: '2015-02-13T22:22:00+01:00'
 ---

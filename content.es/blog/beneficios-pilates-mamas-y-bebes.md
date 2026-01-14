@@ -4,12 +4,7 @@ title_seo: Beneficios Pilates Mamás y Bebés - Movere Pilates & Training
 slug: beneficios-pilates-mamas-y-bebes
 description: 'Después de la maravillosa experiencia de tener un hijo y disfrutar de su presencia, queda una tarea pendiente: recuperar el estado de forma...'
 image: https://3.bp.blogspot.com/-tzcJxLLzJjo/VVm4id37_yI/AAAAAAAAABw/Au5pGvJENYs/s684/17.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-05-18T12:09:00+02:00'
 lastmod: '2015-05-18T12:09:00+02:00'
 ---

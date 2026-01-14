@@ -4,12 +4,7 @@ title_seo: La Respiración en Pilates - Movere Pilates & Training
 slug: respiracion-pilates
 description: Es la parte integral del funcionamiento total del cuerpo. Siempre acompaña al movimiento. Tiene diferentes efectos en relación a...
 image: https://4.bp.blogspot.com/-OMMlRPC7f7c/VBhRxYY0GqI/AAAAAAAABlE/G6v-Jg7V9I8/s684/DSC_0433.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2014-09-16T17:16:00+02:00'
 lastmod: '2014-09-16T17:16:00+02:00'
 ---

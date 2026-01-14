@@ -4,12 +4,7 @@ title_seo: Ejercicios de Pilates clásico - Movere Pilates & Training
 slug: ejercicios-de-pilates-clasico
 description: Hola a tod@s!!! En esta entrada os voy a ir presentando los diferentes ejercicios de la tabla de pilates intentando describir ejecución...
 image: https://2.bp.blogspot.com/-uPAAL6hajRs/WS6AAXbnPjI/AAAAAAAACn8/UryCcH0V8TIjqtAfCmNfVOEjRDNZ4sNQQCLcB/s684/20170531_001434.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2017-05-31T18:40:00+02:00'
 lastmod: '2017-05-31T18:40:00+02:00'
 ---

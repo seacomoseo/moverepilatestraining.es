@@ -4,12 +4,7 @@ title_seo: 10 beneficios de Pilates para Niños - Movere Pilates & Training
 slug: 10-beneficios-de-pilates-para-ninos
 description: Existen pocas actividades para los niños que les divierta y les enseñe a adoptar una postura adecuada de forma natural, Pilates es una de...
 image: https://2.bp.blogspot.com/-Se6R1NS-QGc/VqikRcjjVHI/AAAAAAAACe8/YPf62tn5atA/s684/11027778_1666757996887254_3060668641067221721_n.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2016-01-27T12:09:00+01:00'
 lastmod: '2016-01-27T12:09:00+01:00'
 ---

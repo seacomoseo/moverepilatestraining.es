@@ -4,12 +4,7 @@ title_seo: Pilates Prenatal - Movere Pilates & Training
 slug: pilates-prenatal
 description: Para comenzar, esta entrada quería dedicársela a mi gran AMIGA Maribel y a Diego, dentro de muy poquito van a formar una maravillosa f...
 image: https://4.bp.blogspot.com/-etwY84gtiL4/VdWmLLH5oZI/AAAAAAAACb0/YvoluXs7S9w/s684/maribel.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-08-20T12:31:00+02:00'
 lastmod: '2015-08-20T12:31:00+02:00'
 ---

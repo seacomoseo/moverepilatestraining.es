@@ -4,12 +4,7 @@ title_seo: Pilates y Depresión - Movere Pilates & Training
 slug: pilates-y-depresion
 description: '¡Muy buenas a tod@s! Una entrada más en este blog, pero muy especial para mi: Esta entrada va dedicada a todas esas personas que por diver...'
 image: https://3.bp.blogspot.com/-CwcHGPitrnY/VnrxjzV1flI/AAAAAAAACec/DO89TTU9QMI/s684/depre.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-12-23T22:02:00+01:00'
 lastmod: '2015-12-23T22:02:00+01:00'
 ---

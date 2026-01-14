@@ -4,12 +4,7 @@ title_seo: La Concentración en Pilates - Movere Pilates & Training
 slug: la-concentracion
 description: ¡Muy buenas amig@s! Esta entrada va dirigida especialmente a mis chic@s de pilates y extensal & relax. Es breve, pero espero que n...
 image: https://3.bp.blogspot.com/-VLxpIr9CLPE/VM6SNMvtF7I/AAAAAAAACQA/Gz_bXE9qM0Q/s684/10967012_10205827287592480_687483739_n.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-02-01T22:04:00+01:00'
 lastmod: '2015-02-01T22:04:00+01:00'
 ---

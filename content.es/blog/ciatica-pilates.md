@@ -4,12 +4,7 @@ title_seo: Ciática y Método Pilates - Movere Pilates & Training
 slug: ciatica-pilates
 description: En esta entrada, voy a resumir muy brevemente, que es la ciática, alguna de sus causas, como podemos, mediante el método Pilates paliar...
 image: https://3.bp.blogspot.com/-xxC5iFNla4U/VJDC3alkkUI/AAAAAAAAPoU/-pdaox47tSM/s684/ciatica-pilates.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2014-08-20T19:42:00+02:00'
 lastmod: '2014-08-20T19:42:00+02:00'
 ---

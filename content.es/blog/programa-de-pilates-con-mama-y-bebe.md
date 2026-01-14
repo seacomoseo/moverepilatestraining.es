@@ -4,12 +4,7 @@ title_seo: Programa de Pilates con Mamá y Bebé - Movere Pilates & Training
 slug: programa-de-pilates-con-mama-y-bebe
 description: Dedicado a esas sonrisas sinceras, esas manitas inocentes, a las miradas llenas de atención y a ese contacto lleno de ternura. Perspect...
 image: https://4.bp.blogspot.com/-O_Tfzom0dGg/VgQQxqbSBUI/AAAAAAAACdU/LXCUvQ9cd88/s684/1.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-09-24T19:38:00+02:00'
 lastmod: '2015-09-24T19:38:00+02:00'
 ---

@@ -26,7 +26,6 @@ general:
   parallax: true
   pill: false
   size: ''
-  container: ''
   container_gradient: ''
   container_gradient_type: ''
   container_opacity: null

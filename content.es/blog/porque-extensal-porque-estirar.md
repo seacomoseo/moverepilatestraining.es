@@ -4,12 +4,7 @@ title_seo: Por qué Extensal, por qué Estirar - Movere Pilates & Training
 slug: porque-extensal-porque-estirar
 description: Hola a tod@s! Esta es una breve entrada dedicada a los estiramientos, una pequeña justificación y algunos consejillos. Razones por las qu...
 image: https://3.bp.blogspot.com/-Gjzc8tJJbRc/VRUuLGAGyiI/AAAAAAAACYk/wEKra5N4UZ8/s684/2.jpg
-categories: []
-tags: []
 author: admin
-toc: false
-draft: false
-noindex: false
 date: '2015-03-27T11:19:00+01:00'
 lastmod: '2015-03-27T11:19:00+01:00'
 ---
