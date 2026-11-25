@@ -1,7 +1,7 @@
 ---
 slug: fotos
 title: Fotos
-img: /u/pilates-estudio.jpg
+img: /u/fotos/pilates-estudio.jpg
 seo:
   title: Fotos · Movere Pilates & Training
   noindex: true

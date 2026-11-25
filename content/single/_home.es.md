@@ -22,15 +22,15 @@ org:
   logo: /u/base/logo.png
   imgs:
   - /u/fondo.jpg
-  - /u/adela-marin.jpg
-  - /u/pilates-estudio.jpg
-  - /u/pilates-suelo.jpg
-  - /u/pilates-embarazadas.jpg
-  - /u/pilates-bebes.jpg
-  - /u/entrada-movere.jpg
-  - /u/sala-movere.jpg
-  - /u/pilates-maquinas.jpg
-  - /u/pilates-prenatal.jpg
+  - /u/fotos/adela-marin.jpg
+  - /u/fotos/pilates-estudio.jpg
+  - /u/fotos/pilates-suelo.jpg
+  - /u/fotos/pilates-embarazadas.jpg
+  - /u/fotos/pilates-bebes.jpg
+  - /u/fotos/entrada-movere.jpg
+  - /u/fotos/sala-movere.jpg
+  - /u/fotos/pilates-maquinas.jpg
+  - /u/fotos/pilates-prenatal.jpg
   as:
   - https://www.instagram.com/moverecaceres/
   - https://www.facebook.com/movere.pilates.training

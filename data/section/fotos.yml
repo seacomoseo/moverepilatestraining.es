@@ -9,12 +9,12 @@ div_y: true
 boxes:
 - title: Fotos
   imgs:
-  - /u/pilates-maquinas-2.jpg
-  - /u/pilates-estudio.jpg
-  - /u/pilates-suelo.jpg
-  - /u/pilates-suelo-2.jpg
-  - /u/pilates-embarazadas.jpg
-  - /u/pilates-bebes.jpg
+  - /u/fotos/pilates-maquinas-2.jpg
+  - /u/fotos/pilates-estudio.jpg
+  - /u/fotos/pilates-suelo.jpg
+  - /u/fotos/pilates-suelo-2.jpg
+  - /u/fotos/pilates-embarazadas.jpg
+  - /u/fotos/pilates-bebes.jpg
   gallery:
     cols: 3
     gap: 0

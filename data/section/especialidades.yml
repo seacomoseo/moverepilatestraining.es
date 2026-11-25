@@ -15,16 +15,16 @@ boxes:
   boxes:
   - title: Pilates MAT, Máquinas y Prenatal
     url: '#mat-maquinas-prenatal'
-    img: /u/base/icono-pilates.svg
+    img: /u/especialidades/pilates.svg
   - title: Método 5P y Técnicas Hipopresivas
     url: '#metodo-5p-tecnicas-hipopresivas'
-    img: /u/base/icono-5p.svg
+    img: /u/especialidades/5p.svg
   - title: Entrenamiento Funcional
     url: '#entrenamiento-funcional'
-    img: /u/base/icono-funcional.svg
+    img: /u/especialidades/funcional.svg
   - title: Entrenamiento personal
     url: '#entrenamiento-personal'
-    img: /u/base/icono-personal.svg
+    img: /u/especialidades/personal.svg
 modal:
   size: xs
   color: white
@@ -32,7 +32,7 @@ modals:
 - id: mat-maquinas-prenatal
   title: Pilates MAT, Máquinas y Prenatal
   sub: Es tu actividad si...
-  img: /u/base/icono-pilates.svg
+  img: /u/especialidades/pilates.svg
   md: |
     - ::check:: Deseas conocer el método
     - ::check:: Mejorar tu consciencia corporal y equilibrio
@@ -43,7 +43,7 @@ modals:
 - id: metodo-5p-tecnicas-hipopresivas
   title: Método 5P y Técnicas Hipopresivas
   sub: Es tu actividad si...
-  img: /u/base/icono-5p.svg
+  img: /u/especialidades/5p.svg
   md: |
     - ::check:: Quieres mejorar el tono de tu musculatura profunda (suelo pélvico y transverso abdominal)
     - ::check:: Mejorar tu postura
@@ -53,7 +53,7 @@ modals:
 - id: entrenamiento-funcional
   title: Entrenamiento Funcional
   sub: Es tu actividad si...
-  img: /u/base/icono-funcional.svg
+  img: /u/especialidades/funcional.svg
   md: |
     - ::check:: Quieres divertirte
     - ::check:: Favorecer relaciones sociales
@@ -63,7 +63,7 @@ modals:
 - id: entrenamiento-personal
   title: Entrenamiento personal
   sub: Es tu actividad si...
-  img: /u/base/icono-personal.svg
+  img: /u/especialidades/personal.svg
   md: |
     - ::check:: Tienes gusto por el entrenamiento y trato más individualizado
     - ::check:: Necesitas una recapacitación de una lesión, recuperación postparto...

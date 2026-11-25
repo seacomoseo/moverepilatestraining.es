@@ -13,7 +13,7 @@ boxes:
   boxes:
   - title: Adela Marín
     url: '#adela-marin'
-    img: /u/adela-marin.jpg
+    img: /u/fotos/adela-marin.jpg
 modal:
   size: xs
   color: white
@@ -21,7 +21,7 @@ modals:
 - id: adela-marin
   title: Adela Marín
   sub: Titulaciones
-  img: /u/adela-marin.jpg
+  img: /u/fotos/adela-marin.jpg
   md: |
     - ::check:: Licenciada en Ciencias de la Actividad Física y Deporte
     - ::check:: Ténico Superior Deportivo

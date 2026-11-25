@@ -7,42 +7,42 @@ boxes:
 - title: Fotos
   sub: Nuestras instalaciones y actividades
   imgs:
-  - /u/pilates-estudio.jpg
-  - /u/pilates-suelo.jpg
-  - /u/pilates-suelo-2.jpg
-  - /u/pilates-embarazadas.jpg
-  - /u/pilates-bebes.jpg
-  - /u/entrada-movere.jpg
-  - /u/sala-movere.jpg
-  - /u/pilates-maquinas.jpg
-  - /u/pilates-maquinas-8.jpg
-  - /u/pilates-maquinas-5.jpg
-  - /u/pilates-maquinas-6.jpg
-  - /u/pilates-prenatal-2.jpg
-  - /u/pilates-prenatal-3.jpg
-  - /u/pilates-prenatal.jpg
-  - /u/pilates-estudio-4.jpg
-  - /u/pilates-suelo-3.jpg
+  - /u/fotos/pilates-estudio.jpg
+  - /u/fotos/pilates-suelo.jpg
+  - /u/fotos/pilates-suelo-2.jpg
+  - /u/fotos/pilates-embarazadas.jpg
+  - /u/fotos/pilates-bebes.jpg
+  - /u/fotos/entrada-movere.jpg
+  - /u/fotos/sala-movere.jpg
+  - /u/fotos/pilates-maquinas.jpg
+  - /u/fotos/pilates-maquinas-8.jpg
+  - /u/fotos/pilates-maquinas-5.jpg
+  - /u/fotos/pilates-maquinas-6.jpg
+  - /u/fotos/pilates-prenatal-2.jpg
+  - /u/fotos/pilates-prenatal-3.jpg
+  - /u/fotos/pilates-prenatal.jpg
+  - /u/fotos/pilates-estudio-4.jpg
+  - /u/fotos/pilates-suelo-3.jpg
   - /u/fondo.jpg
-  - /u/pilates-estudio-2.jpg
-  - /u/pilates-estudio-3.jpg
-  - /u/pilates-estudio-5.jpg
-  - /u/pilates-estudio-7.jpg
-  - /u/pilates-estudio-8.jpg
-  - /u/pilates-estudio-9.jpg
-  - /u/pilates-estudio-10.jpg
-  - /u/pilates-maquinas-7.jpg
-  - /u/adela-marin-marques.jpg
-  - /u/2026-01-13-centro-02.jpg
-  - /u/2026-01-13-centro-03.jpg
-  - /u/2026-01-13-centro-04.jpg
-  - /u/2026-01-13-centro-05.jpg
-  - /u/2026-01-13-centro-06.jpg
-  - /u/2026-01-13-centro-07.jpg
-  - /u/2026-01-13-centro-08.jpg
-  - /u/2026-01-13-centro-09.jpg
-  - /u/2026-01-13-centro-10.jpg
-  - /u/2026-01-13-centro-11.jpg
+  - /u/fotos/pilates-estudio-2.jpg
+  - /u/fotos/pilates-estudio-3.jpg
+  - /u/fotos/pilates-estudio-5.jpg
+  - /u/fotos/pilates-estudio-7.jpg
+  - /u/fotos/pilates-estudio-8.jpg
+  - /u/fotos/pilates-estudio-9.jpg
+  - /u/fotos/pilates-estudio-10.jpg
+  - /u/fotos/pilates-maquinas-7.jpg
+  - /u/fotos/adela-marin-marques.jpg
+  - /u/fotos/2026-01-13-centro-02.jpg
+  - /u/fotos/2026-01-13-centro-03.jpg
+  - /u/fotos/2026-01-13-centro-04.jpg
+  - /u/fotos/2026-01-13-centro-05.jpg
+  - /u/fotos/2026-01-13-centro-06.jpg
+  - /u/fotos/2026-01-13-centro-07.jpg
+  - /u/fotos/2026-01-13-centro-08.jpg
+  - /u/fotos/2026-01-13-centro-09.jpg
+  - /u/fotos/2026-01-13-centro-10.jpg
+  - /u/fotos/2026-01-13-centro-11.jpg
   gallery:
     gray: false
     cols: 4
