@@ -1,0 +1,26 @@
+- { from: /p/legal.html , to: /legal/ }
+- { from: /2014/05/principios-metodo-pilates_30.html , to: /principios-metodo-pilates/ }
+- { from: /2014/06/sentimiento-pilates.html , to: /sentimiento-pilates/ }
+- { from: /2014/08/ciatica-pilates.html , to: /ciatica-pilates/ }
+- { from: /2014/09/respiracion-pilates.html , to: /respiracion-pilates/ }
+- { from: /2014/11/consejo-pregunta-aportacion-pilates.html , to: /consejo-pregunta-aportacion-pilates/ }
+- { from: /2015/02/la-concentracion.html , to: /la-concentracion/ }
+- { from: /2015/02/pilates-y-tu-momento-para-disfrutarlo.html , to: /pilates-y-tu-momento-para-disfrutarlo/ }
+- { from: /2015/03/porque-extensal-porque-estirar.html , to: /porque-extensal-porque-estirar/ }
+- { from: /2015/05/beneficios-pilates-mamas-y-bebes.html , to: /beneficios-pilates-mamas-y-bebes/ }
+- { from: /2015/08/pilates-prenatal.html , to: /pilates-prenatal/ }
+- { from: /2015/09/programa-de-pilates-con-mama-y-bebe.html , to: /programa-de-pilates-con-mama-y-bebe/ }
+- { from: /2015/12/pilates-y-depresion.html , to: /pilates-y-depresion/ }
+- { from: /2016/01/10-beneficios-de-pilates-para-ninos.html , to: /10-beneficios-de-pilates-para-ninos/ }
+- { from: /2016/02/la-importancia-de-la-mente-la-hora-de.html , to: /la-importancia-de-la-mente-la-hora-de/ }
+- { from: /2016/08/el-placer-de-acompanarte.html , to: /el-placer-de-acompanarte/ }
+- { from: /2017/05/ejercicios-de-pilates-clasico.html , to: /ejercicios-de-pilates-clasico/ }
+- { from: /2017/05/un-poco-de-historia.html , to: /un-poco-de-historia/ }
+- { from: /2017/06/la-cintura-escapular.html , to: /la-cintura-escapular/ }
+- { from: /2017/06/la-cintura-pelvica.html , to: /la-cintura-pelvica/ }
+- { from: /2017/12/la-centralizacion-o-core.html , to: /la-centralizacion-o-core/ }
+- { from: /2020/01/suelo-pelvico-y-propuestas-para-cuidarlo.html , to: /suelo-pelvico-y-propuestas-para-cuidarlo/ }
+
+- { from: /2014/05/ , to: /#blog }
+- { from: /feeds/* , to: /feed.xml }
+- { from: /search , to: / }

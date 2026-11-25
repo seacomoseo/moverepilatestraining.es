@@ -1,0 +1,86 @@
+icons:
+  fill: true
+  weight: 700
+  grade: 0
+  optical: 24
+  style: outlined
+  def:
+    play: svg:youtube-iframe
+fonts:
+  base:
+    family: Roboto
+    weight: 300
+    bold: 0
+    italic: false
+    line_height: 1.25
+  cursive:
+    family: Roboto
+    weight: 300
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+  title:
+    family: Amaranth
+    weight: 700
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#96acaa' #00c895
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: false
+      in: true
+      text: true
+  alt:
+    color: '#c6c8c9' #aaa
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: false
+      in: true
+      text: true
+  cta:
+    color: '#dbd1c7' #92beac
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: false
+      in: true
+      text: true
+  base:
+    white: '#ffffff'
+    light: '#eeeeee'
+    gray: '#767676'
+    dark: '#143739' #282525
+    black: '#000000'
+rounded:
+  radius: 0.33
+  chamfer: false
+btns:
+  pill: false
+  disc: true
+  deep: false
+  outline: false
+  font:
+    type: title
+    bold: false
+    caps: true
+  swap:
+    type: base
+    bold: false
+    caps: false
+inputs:
+  fill: true
+  labels: in
+shadow:
+  left: 0
+  top: 0
+  blur: 0
+  color: black
+  alpha: 1

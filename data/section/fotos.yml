@@ -1,0 +1,21 @@
+name: Fotos
+id: fotos
+color: light
+size: fluid
+ph: true
+div: curve-side
+div_x: false
+div_y: true
+boxes:
+- title: Fotos
+  imgs:
+  - /u/pilates-maquinas-2.jpg
+  - /u/pilates-estudio.jpg
+  - /u/pilates-suelo.jpg
+  - /u/pilates-suelo-2.jpg
+  - /u/pilates-embarazadas.jpg
+  - /u/pilates-bebes.jpg
+  gallery:
+    cols: 3
+    gap: 0
+    contain: true

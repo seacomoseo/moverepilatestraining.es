@@ -1,28 +1,46 @@
 {
-  "name": "sansoul.es",
-  "version": "1.0.0",
-  "description": "SanSoul is the Hugo theme website services soul by lorensansol",
+  "name": "moverepilatestraining.es",
+  "version": "7.0.0",
+  "type": "module",
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^6.0.0",
     "autoprefixer": "^10.4.19",
     "cssnano": "^7.0.4",
-    "postcss": "^8.4.40",
     "postcss-cli": "^11.0.0",
-    "purgecss": "^6.0.0"
+    "material-symbols": "^0.34.1",
+    "@fortawesome/fontawesome-free": "^7.0.1",
+    "sharp": "^0.35.3",
+    "sharp-ico": "^0.1.5",
+    "simple-icons": "^15.12.0",
+    "sass-embedded": "^1.100.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npx http-server public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorensansol/sansoul.es.git"
+    "url": "git+https://github.com/lorensansol/sansoul-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lorensansol/sansoul.es/issues"
+    "url": "https://github.com/lorensansol/sansoul-demo/issues"
   },
-  "homepage": "https://github.com/lorensansol/sansoul.es"
+  "homepage": "https://github.com/lorensansol/sansoul-demo",
+  "standard": {
+    "env": [
+      "browser"
+    ],
+    "globals": [
+      "googleAnalytics",
+      "gtag",
+      "SimpleLightbox",
+      "MathJax",
+      "L",
+      "CMS",
+      "netlifyIdentity",
+      "h"
+    ]
+  }
 }

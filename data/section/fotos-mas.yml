@@ -1,0 +1,7 @@
+name: Fotos Más
+id: fotos-mas
+color: light
+size: xs
+pt: 0
+boxes:
+- url: /fotos/

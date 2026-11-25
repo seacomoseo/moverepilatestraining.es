@@ -1,0 +1,47 @@
+name: Contacto
+id: contacto
+color: light
+div: curve-side
+div_x: false
+div_y: true
+menu_btn: cta
+boxes:
+- title: Contacto
+  align: center
+  box:
+    cols: 2
+  boxes:
+  - when:
+    - days: Lunes - Jueves
+      hours: 08:00-11:00 + 17:00-22:00
+    - days: Viernes
+      hours: 08:00-11:00
+    links:
+    - type: phone
+      label: 638 727 551
+    - type: whatsapp
+      label: 638 727 551
+      btn: cta
+    - type: mail
+      label: movere.pilates.training@gmail.com
+      full: true
+      btn: dark
+    - type: address
+      label: C. Diego María Crehuet, 12, 10002 Cáceres, Extremadura
+      anchor: Movere Pilates & Training, C. Diego María Crehuet, 12, 10002 Cáceres, Extremadura
+    - type: address
+      label: C. Diego María Crehuet, 8, 10002 Cáceres, Extremadura
+      anchor: Movere Pilates & Training, C. Diego María Crehuet, 8, 10002 Cáceres, Extremadura
+    inputs:
+    - type: text
+      name: Nombre
+      req: true
+    - type: mail
+      name: Email
+      req: true
+    - type: area
+      name: Mensaje
+      req: true
+  - geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[-6.375119,39.471295]}'

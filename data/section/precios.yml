@@ -1,0 +1,75 @@
+name: Precios
+id: precios
+color: dark
+bi: /u/pilates-suelo-2.jpg
+size: md
+scroll: fix
+div: wavy
+div_x: true
+div_y: false
+alpha: 0.7
+boxes:
+- title: Precios
+- box:
+    pill: true
+    color: white
+    cols: 3
+    disc: true
+  boxes:
+  - title: Clases Normales
+    price: 50 €/mes
+    url: '#contacto'
+    label: Contactar
+    icon: wc
+    md: |
+      **2 clases/semana**
+
+      - Pilates
+      - Entrenamiento Funcional
+    pin: send
+  - title: Clases Especiales
+    price: 60 €/mes
+    url: '#contacto'
+    label: Contactar
+    icon: pregnant_woman
+    md: |
+      **2 clases/semana**
+
+      - Pilates Prenatal
+      - Funcional Especial (adaptado al embarazo y posparto)
+      - Centro (suelo pélvico, core, método 5p e hipopresivos)
+    pin: send
+  - title: Grupos Reducidos
+    price: ¡Consúltanos!
+    url: '#contacto'
+    label: Contactar
+    icon: groups_3
+    md: |
+      **3 clases normales o especiales <br> + 1 clase de:**
+
+      - Pilates Estudio
+      - Entrenamiento Funcional Reducido
+    pin: send
+  - title: Dúo Training
+    price: ¡Consúltanos!
+    url: '#contacto'
+    label: Contactar
+    icon: social_distance
+    md: |
+      Entrenamiento en pareja
+    pin: send
+  - title: Personal Training
+    price: ¡Consúltanos!
+    url: '#contacto'
+    label: Contactar
+    icon: guardian
+    md: |
+      Entrenamiento personal
+    pin: send
+- boxes:
+  - title: También...
+    md: |
+      Precios por sesiones sueltas y bonos
+
+      ¡Consúltanos!
+      {.price}

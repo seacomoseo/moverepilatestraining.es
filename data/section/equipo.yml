@@ -1,0 +1,33 @@
+name: Equipo
+id: equipo
+color: white
+div: curve
+div_x: false
+div_y: true
+boxes:
+- title: Equipo
+  box:
+    border: main
+    cols: 4
+    disc: true
+  boxes:
+  - title: Adela Marín
+    url: '#adela-marin'
+    img: /u/adela-marin.jpg
+modal:
+  size: xs
+  color: white
+modals:
+- id: adela-marin
+  title: Adela Marín
+  sub: Titulaciones
+  img: /u/adela-marin.jpg
+  md: |
+    - ::check:: Licenciada en Ciencias de la Actividad Física y Deporte
+    - ::check:: Ténico Superior Deportivo
+    - ::check:: Instructora Pilates Mat, Máquinas
+    - ::check:: Instructora Poblaciones Especiales: Pilates Prenatal y Mamá y Bebé
+    - ::check:: Instructora Técnicas del Metodo de Gimnasia Abdominal Hipopresiva
+    - ::check:: Docente en Escuela de Formación Pilates Evidence
+  border: main
+  disc: true

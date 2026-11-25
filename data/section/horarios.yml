@@ -1,0 +1,18 @@
+name: Horarios
+id: horarios
+color: main-dark
+size: xl
+fade: dark
+fade_to: br
+div: wavy
+div_x: false
+div_y: false
+boxes:
+- title: Horarios
+- gss: 2PACX-1vQli2HOn7NN_zXn3ajHB-gXKDp9Q7X-QkekdrOrlluH8HQ6tRjhmgV1IX_m_3Om5McrNgxN6cFZ230C
+  gss_sheet: 1861644079
+- boxes:
+  - url: https://docs.google.com/spreadsheets/d/1uok0LXp1-bXypf_eXq9AKd4O-Fyuc01csHVgOpJQF84/pubhtml
+    label: Ampliar
+    lock: true
+    pin: fullscreen

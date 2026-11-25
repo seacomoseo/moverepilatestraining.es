@@ -1,0 +1,25 @@
+name: Nosotros
+id: nosotros
+color: dark
+bi: /u/pilates-estudio.jpg
+size: xs
+scroll: fix
+div: curve-side
+div_x: true
+div_y: true
+alpha: 0.5
+boxes:
+- title: Nosotros
+  img: /u/base/logo.svg
+  md: |
+    Centro especializado en el método pilates y entrenamiento funcional, individual o colectivo.
+    <!-- ![Logo Movere Pilates & Training](/u/base/logo.svg) -->
+
+    ### Nuestro Objetivo
+
+    - ::check:: Enseñarte a cuidarte, escucharte
+    - ::check:: Prepararte o recuperarte
+    - ::check:: Ver donde están tus límites y dónde puedes llegar
+    - ::check:: Hacerte sentir parte de este proyecto
+  align: center
+  color: white

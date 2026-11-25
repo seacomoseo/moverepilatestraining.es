@@ -1,0 +1,19 @@
+name: Blog
+id: blog
+color: light
+div: curve-side
+div_x: true
+div_y: false
+box:
+  gap_vs: 2
+boxes:
+- title: Blog
+- list:
+    type: blog
+    max: 3
+  box:
+    cols: 3
+    slider: true
+- label: Más
+  pin: add
+  url: /blog/

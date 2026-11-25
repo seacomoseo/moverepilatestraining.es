@@ -1,0 +1,51 @@
+name: Fotos Pagina
+id: fotos-pagina
+color: main-dark
+div: curve-side
+div_y: true
+boxes:
+- title: Fotos
+  sub: Nuestras instalaciones y actividades
+  imgs:
+  - /u/pilates-estudio.jpg
+  - /u/pilates-suelo.jpg
+  - /u/pilates-suelo-2.jpg
+  - /u/pilates-embarazadas.jpg
+  - /u/pilates-bebes.jpg
+  - /u/entrada-movere.jpg
+  - /u/sala-movere.jpg
+  - /u/pilates-maquinas.jpg
+  - /u/pilates-maquinas-8.jpg
+  - /u/pilates-maquinas-5.jpg
+  - /u/pilates-maquinas-6.jpg
+  - /u/pilates-prenatal-2.jpg
+  - /u/pilates-prenatal-3.jpg
+  - /u/pilates-prenatal.jpg
+  - /u/pilates-estudio-4.jpg
+  - /u/pilates-suelo-3.jpg
+  - /u/fondo.jpg
+  - /u/pilates-estudio-2.jpg
+  - /u/pilates-estudio-3.jpg
+  - /u/pilates-estudio-5.jpg
+  - /u/pilates-estudio-7.jpg
+  - /u/pilates-estudio-8.jpg
+  - /u/pilates-estudio-9.jpg
+  - /u/pilates-estudio-10.jpg
+  - /u/pilates-maquinas-7.jpg
+  - /u/adela-marin-marques.jpg
+  - /u/2026-01-13-centro-02.jpg
+  - /u/2026-01-13-centro-03.jpg
+  - /u/2026-01-13-centro-04.jpg
+  - /u/2026-01-13-centro-05.jpg
+  - /u/2026-01-13-centro-06.jpg
+  - /u/2026-01-13-centro-07.jpg
+  - /u/2026-01-13-centro-08.jpg
+  - /u/2026-01-13-centro-09.jpg
+  - /u/2026-01-13-centro-10.jpg
+  - /u/2026-01-13-centro-11.jpg
+  gallery:
+    gray: false
+    cols: 4
+    type: rows
+    color: white
+    contain: true

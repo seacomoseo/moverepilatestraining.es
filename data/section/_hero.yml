@@ -1,0 +1,21 @@
+name: Hero
+id: hero
+color: dark
+fade: white
+fade_to: rad-alt
+bi: /u/fondo.jpg
+alpha: 0.5
+scroll: fix
+pt: 3
+pb: 3
+div: curve-side
+div_x: true
+div_y: true
+size: xs
+boxes:
+- hanchor: Centro Especializado en Pilates y Entrenamiento Funcional en Cáceres
+  img: /u/base/logo-alt.svg
+  sub: Centro Especializado en Pilates <br> y Entrenamiento Funcional <br> en Cáceres
+  md: |
+    [[::add:: Más]](#more)
+  align: center

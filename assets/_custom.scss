@@ -1,0 +1,10 @@
+@use 'css/variables';
+
+.price {
+  color: variables.$main;
+}
+
+#body-home #hero {
+  .sub  { animation: show-from .5s 1s both; color: inherit; }
+  .btns { animation: show-from .5s 1.25s both; }
+}

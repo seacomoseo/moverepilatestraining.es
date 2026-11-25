@@ -1,0 +1,15 @@
+name: Cita 2
+id: cita-2
+color: main-dark
+size: md
+fade: dark
+fade_to: br
+div: wavy
+div_x: false
+div_y: false
+boxes:
+- md: |
+    En 10 sesiones te sentirás diferente, en 20 sesiones te verás diferente y en 30 sesiones tendrás un cuerpo totalmente nuevo
+    {.quotes .h3}
+  align: center
+  hanchor: Cuerpo nuevo

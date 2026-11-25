@@ -1,0 +1,9 @@
+title: Páginas Únicas
+base: single
+weight: 0
+tpl:
+  section:
+  - scroll: fix
+    size: lg
+  list:
+    md: hide

@@ -1,0 +1,70 @@
+name: Especialidades
+id: especialidades
+color: white
+size: md
+div: curve-side
+div_x: false
+div_y: false
+boxes:
+- title: Especialidades
+  box:
+    cols: 4
+    hs: 4.5
+    hs_vs: 2
+    pin: add
+  boxes:
+  - title: Pilates MAT, Máquinas y Prenatal
+    url: '#mat-maquinas-prenatal'
+    img: /u/base/icono-pilates.svg
+  - title: Método 5P y Técnicas Hipopresivas
+    url: '#metodo-5p-tecnicas-hipopresivas'
+    img: /u/base/icono-5p.svg
+  - title: Entrenamiento Funcional
+    url: '#entrenamiento-funcional'
+    img: /u/base/icono-funcional.svg
+  - title: Entrenamiento personal
+    url: '#entrenamiento-personal'
+    img: /u/base/icono-personal.svg
+modal:
+  size: xs
+  color: white
+modals:
+- id: mat-maquinas-prenatal
+  title: Pilates MAT, Máquinas y Prenatal
+  sub: Es tu actividad si...
+  img: /u/base/icono-pilates.svg
+  md: |
+    - ::check:: Deseas conocer el método
+    - ::check:: Mejorar tu consciencia corporal y equilibrio
+    - ::check:: Mejorar tu coordinación y movilidad
+    - ::check:: Prevenir o recuperar una lesión
+    - ::check:: Complementar con tu modalidad deportiva
+    - ::check:: Prepararte y mantenerte en tu etapa de prenatal
+- id: metodo-5p-tecnicas-hipopresivas
+  title: Método 5P y Técnicas Hipopresivas
+  sub: Es tu actividad si...
+  img: /u/base/icono-5p.svg
+  md: |
+    - ::check:: Quieres mejorar el tono de tu musculatura profunda (suelo pélvico y transverso abdominal)
+    - ::check:: Mejorar tu postura
+    - ::check:: Aumentar tu capacidad pulmonar
+    - ::check:: Comenzar tu recuperación postparto
+    - ::check:: Mejorar/prevenir incontinencias/prolapsos...
+- id: entrenamiento-funcional
+  title: Entrenamiento Funcional
+  sub: Es tu actividad si...
+  img: /u/base/icono-funcional.svg
+  md: |
+    - ::check:: Quieres divertirte
+    - ::check:: Favorecer relaciones sociales
+    - ::check:: Perder masa grasa
+    - ::check:: Aumentar tu fuerza, velocidad, agilidad…
+    - ::check:: Mejorar tus capacidades para el desarrollo de tus actividades cotidianas
+- id: entrenamiento-personal
+  title: Entrenamiento personal
+  sub: Es tu actividad si...
+  img: /u/base/icono-personal.svg
+  md: |
+    - ::check:: Tienes gusto por el entrenamiento y trato más individualizado
+    - ::check:: Necesitas una recapacitación de una lesión, recuperación postparto...
+    - ::check:: Tienes un objetivo específico y horario especial.
